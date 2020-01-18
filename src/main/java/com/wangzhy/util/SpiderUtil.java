@@ -6,5 +6,7 @@ package com.wangzhy.util;
  * @since 2020年1月18日
  */
 public class SpiderUtil {
-	
+	public static void main(String[] args) {
+		
+	}
 }
